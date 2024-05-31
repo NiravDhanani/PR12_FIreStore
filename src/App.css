@@ -1,0 +1,25 @@
+.head{
+    background-color: #444444;
+    margin: 10px 0;
+}
+
+input{
+    width: 85%;
+    border-radius: 7px;
+    padding: 0 10px;
+}
+
+.box{
+    width: 100%;
+    border-radius: 7px;
+    background-color: #f2f2f2;
+    padding: 15px;
+    margin: 10px 0 0 0;
+}
+
+.work{
+    width: 70%;
+}
+.action{
+    width: 30%;
+}
